@@ -5,7 +5,11 @@
 
 
 
-https://github.com/BeratKuzu55/TodoAppWithReact/assets/75533278/66e661e9-79ab-4bf5-ba98-0e0882b4ea97
+
+
+
+https://github.com/BeratKuzu55/TodoAppWithReact/assets/75533278/84aa2f00-7138-4a21-ab88-fe07eabfec72
+
 
 
 
